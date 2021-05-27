@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f542ba6a-fa82-4ba6-a383-96af155011ab" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_lib_2_4_jdk15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/KerberosAS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/src/DBManger/DBExcute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/src/DBManger/DataConn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/src/Databean/Information.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/src/Databean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/src/Message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/src/Security/DES/BitManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/src/Security/DES/Des.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/src/Security/DES/KeyManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/src/Security/DES/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/src/Security/MD5/MD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/src/Security/RSA/KeyManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/src/Security/RSA/RSA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/src/Servers/AS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosAS/src/Servers/ServerForMultiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/KerberosClientModel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/APP/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Client/ASConn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Client/ChatServerConn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Client/ClientOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Client/ConnManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Client/FileServerConn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Client/PrepareConn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Client/ServerType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Client/SocketConn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Client/TGSConn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Databean/Information.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Databean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Message/ContentTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Security/DES/BitManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Security/DES/Des.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Security/DES/KeyManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Security/DES/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Security/MD5/MD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Security/RSA/KeyManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/Security/RSA/RSA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/AddFrd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/BackgroundThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/GpChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/Regist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/regist.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/主题.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/头像.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/注册.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/添加.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/熊.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/熊猫.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/界面.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/登陆.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/聊天.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/花.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosClientModel/src/nurnisa/面板.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/.myeclipse/profiler/ServerForMultiClient (1).xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/KerberosServerModel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/DBManger/DBExcute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/DBManger/DataConn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/Databean/Information.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/Databean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/Message/ContentTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/Message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/Security/DES/BitManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/Security/DES/Des.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/Security/DES/KeyManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/Security/DES/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/Security/MD5/MD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/Security/RSA/KeyManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/Security/RSA/RSA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/Servers/Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/Servers/Forward.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/Servers/ServerForMultiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosServerModel/src/Servers/ServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosTGS/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosTGS/KerberosTGS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosTGS/src/DBManger/DBExcute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosTGS/src/DBManger/DataConn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosTGS/src/Databean/Information.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosTGS/src/Databean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosTGS/src/Message/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosTGS/src/Security/DES/BitManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosTGS/src/Security/DES/Des.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosTGS/src/Security/DES/KeyManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosTGS/src/Security/DES/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosTGS/src/Security/MD5/MD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosTGS/src/Security/RSA/KeyManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosTGS/src/Security/RSA/RSA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosTGS/src/Servers/ServerForMultiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kerberos/KerberosTGS/src/Servers/TGS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/New_configuration.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kerberos-聊天系统.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic &amp; result/APPS逻辑.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic &amp; result/AS逻辑.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic &amp; result/TGS逻辑.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic &amp; result/kerberos总览.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic &amp; result/result1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic &amp; result/result2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logic &amp; result/认证过程.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据库设计.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1shLmTSiHIsTOvDQAmdhR4vhjzT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="应用程序.ServerForMultiClient (2)">
+    <configuration name="AddFrd (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nurnisa.AddFrd" />
+      <module name="KerberosClientModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nurnisa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nurnisa.Login" />
+      <module name="KerberosClientModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nurnisa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerForMultiClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Servers.ServerForMultiClient" />
+      <module name="KerberosAS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Servers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerForMultiClient (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Servers.ServerForMultiClient" />
+      <module name="KerberosServerModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Servers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerForMultiClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Servers.ServerForMultiClient" />
+      <module name="KerberosTGS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Servers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.ServerForMultiClient (2)" />
+        <item itemvalue="应用程序.ServerForMultiClient" />
+        <item itemvalue="应用程序.ServerForMultiClient (1)" />
+        <item itemvalue="应用程序.Login" />
+        <item itemvalue="应用程序.AddFrd (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f542ba6a-fa82-4ba6-a383-96af155011ab" name="默认变更列表" comment="" />
+      <created>1621320056500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621320056500</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="5826db06-7013-4bba-872f-61846be6b50d">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/努尔尼萨/Desktop/Kerberos-authentication-master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="5826db06-7013-4bba-872f-61846be6b50d" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

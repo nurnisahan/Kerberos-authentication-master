@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kerberos/KerberosAS/KerberosAS.iml" filepath="$PROJECT_DIR$/Kerberos/KerberosAS/KerberosAS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kerberos/KerberosClientModel/KerberosClientModel.iml" filepath="$PROJECT_DIR$/Kerberos/KerberosClientModel/KerberosClientModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kerberos/KerberosServerModel/KerberosServerModel.iml" filepath="$PROJECT_DIR$/Kerberos/KerberosServerModel/KerberosServerModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kerberos/KerberosTGS/KerberosTGS.iml" filepath="$PROJECT_DIR$/Kerberos/KerberosTGS/KerberosTGS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kerberos-聊天系统.iml" filepath="$PROJECT_DIR$/kerberos-聊天系统.iml" />
+    </modules>
+  </component>
+</project>
