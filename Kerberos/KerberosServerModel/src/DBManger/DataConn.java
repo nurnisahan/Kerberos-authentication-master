@@ -7,7 +7,7 @@ public class DataConn {
 	static Statement stmt = null;
 	static ResultSet rs = null;
 	static Connection conn = null;
-	static String ip = "localhost:3306/test";
+	static String ip = "192.168.137.1:3306/test";
 
 	static void OpenConn() {
 		stmt = null;
@@ -36,8 +36,8 @@ public class DataConn {
 	}
 
 	public static int executeUpdate(String sql) {
-		stmt = null;
-		rs = null;
+		//stmt = null;
+		//rs = null;
 		try {
 			stmt = conn.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE,
 					ResultSet.CONCUR_READ_ONLY);

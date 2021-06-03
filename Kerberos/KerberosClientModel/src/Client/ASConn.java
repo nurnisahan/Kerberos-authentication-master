@@ -8,7 +8,7 @@ public class ASConn extends SocketConn {
 	
 	public ASConn(){
 		try {
-			socket = new Socket("192.168.43.239", 7777);
+			socket = new Socket("192.168.204.1", 7777);
 		} catch (UnknownHostException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

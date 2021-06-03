@@ -7,14 +7,14 @@ public class DataConn {
 	static Statement stmt = null;
 	static ResultSet rs = null;
 	static Connection conn = null;
-	static String ip = "172.27.96.56:3306/test";
+	static String ip = "192.168.137.1:3306/test";
 
 	static void OpenConn() {
 		stmt = null;
 		rs = null;
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
-			String url = "jdbc:mysql://" + ip + "?user=root&password=";
+			String url = "jdbc:mysql://" + ip + "?user=root&password=1999329";
 			conn = DriverManager.getConnection(url);
 			// System.out.println("数据库连接成功");
 		} catch (Exception e) {
